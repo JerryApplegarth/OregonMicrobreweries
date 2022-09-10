@@ -6,10 +6,10 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.oregonmicrobreweries.presentation.screens.BreweryScreen
 import com.example.oregonmicrobreweries.ui.theme.OregonMicrobreweriesTheme
 
 class MainActivity : ComponentActivity() {
@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Greeting("Android")
+                    BreweryApp()
                 }
             }
         }
@@ -30,18 +30,14 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun Greeting(name: String) {
-    Text(text = "Hello $name!")
+fun BreweryApp() {
+    BreweryScreen()
 }
 
 @Preview(
-    showBackground = true,
-    showSystemUi = true,
-    name = "Main Screen"
-    )
+    showBackground = true
+)
 @Composable
-fun DefaultPreview() {
-    OregonMicrobreweriesTheme {
-        Greeting("Android")
-    }
+fun BreweryAppPreview() {
+    BreweryApp()
 }
