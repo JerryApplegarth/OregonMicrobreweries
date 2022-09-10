@@ -329,7 +329,307 @@ val dummyBreweries = listOf(
         "Little Hop Brewing",
         "The term Little Hop is meant to indicate that sometimes less is more, quality over quantity.  " +
                 "Beer in its simplest form."),
+    Brewery(
+        51,
+        "Logsdon Farmhouse Ales",
+        "We are now open in our new Portland location! (currently for to-go beer sales only)\n" +
+                "\n" +
+                "Come visit us Thursday, Friday, or Saturday between 2 and 7pm\n" +
+                "at 2425 SE 35th Pl (just off of Division St.)"),
+    Brewery(
+        52,
+        "Long Brewing LLC",
+        "Ales and Lagers handcrafted without compromise. " +
+                "Our layered approach to brewing results in expressive aromas " +
+                "and flavors that are integrated and balanced. " +
+                "We use select whole Hops for freshness and the best Malts from around the world. " +
+                "Savor the aroma, flavor and finish of Long Brewing Ales and Lagers-- just as you would a fine wine."),
+    Brewery(
+        53,
+        "Manifest Beer Company",
+        "no information yet"),
+    Brewery(
+        54,
+        "Mazama Brewing Co",
+        "Mazama Brewing Co. is an independent, " +
+                "family owned and operated craft brewery in Corvallis, Oregon. " +
+                "It was founded in 2012 and the first beers were sold out of our taproom on May 31, 2013. " +
+                "Since then, Mazama has grown its beer list and " +
+                "expanded distribution to Idaho and along the West Coast. " +
+                "International fans are able to purchase our beers in Japan and Norway." +
+                "Mazama prides itself on making true to style European beers. " +
+                "The beers feature traditional and quality ingredients that are locally sourced " +
+                "to create smooth and dynamic flavors. " +
+                "Our beer list is approachable to novices and connoisseurs alike. " +
+                "We believe everyone will find something they can enjoy at Mazama!"),
+    Brewery(
+        55,
+        "McMenamins Edgefield Brewery",
+        "Great benefits & perks. Short & long-term opportunities."),
+    Brewery(
+        56,
+        "McMenamins Fulton Pub and Brewery",
+        "Great benefits & perks. Short & long-term opportunities."),
+    Brewery(
+        57,
+        "McMenamins Hillsdale Brewery and Public House",
+        "Great benefits & perks. Short & long-term opportunities."),
+    Brewery(
+        58,
+        "McMenamins Oak Hills Brewery",
+        "Great benefits & perks. Short & long-term opportunities."),
+    Brewery(
+        59,
+        "McMenamins Roseburg Station Brewery",
+        "Great benefits & perks. Short & long-term opportunities."),
+    Brewery(
+        60,
+        "McMenamins Thompson Brewery",
+        "Great benefits & perks. Short & long-term opportunities."),
+    Brewery(
+        61,
+        "McMenamins West Linn Brewery",
+        "Great benefits & perks. Short & long-term opportunities."),
+    Brewery(
+        62,
+        "Migration Brewing Co",
+        "On a sunny day in the Fall of 2008, " +
+                "we found ourselves sharing beers and engrossed in a conversation that began " +
+                "about starting a business but quickly delved into personal values and visions of the future.  " +
+                "The four of us quickly realized that we shared more than a passion for great beer; " +
+                "we shared a value set about life and the role that beer plays in it.  " +
+                "A dream was born and the wheels were set in " +
+                "motion to open our flagship Glisan Street brewpub in early 2010."),
+    Brewery(
+        63,
+        "Migration Brewing Co",
+        "no information at this time"),
+    Brewery(
+        64,
+        "Moonshrimp Brewing",
+        "Locally made, sustainably and responsibly produced, " +
+                "small batch fermented and hand bottled."  +
+                "Open for retail sales twice a week, " +
+                "Tuesdays noon-7pm, Fridays 2pm - 7pm, " +
+                "also happily available by appointment most days and times."),
+    Brewery(
+        65,
+        "Mountain View Brewing",
+        "no information yet"),
+    Brewery(
+        66,
+        "Mt. Hood Brewing Co.",
+        "3 locations"),
+    Brewery(
+        67,
+        "Nebuleus Beer",
+        "no information available"),
+    Brewery(
+        68,
+        "New Spring Beer",
+        "no information yet"),
 
-
-
+    Brewery(
+        69,
+        "Oakshire Brewing",
+        "Oakshire is a community-inspired, small-batch brewing company founded in 2006. " +
+                "We are locally owned, employ 24 people, and produce a wide variety of fresh, " +
+                "quality beers through our three distinct brewing programs: " +
+                "Core, Pilot, and Vintage. " +
+                "Our beers are distributed throughout the Pacific Northwest " +
+                "where we enjoy creating and sharing great beer experiences."),
+    Brewery(
+        70,
+        "Oblivion Brewing Co",
+        "no information yet"),
+    Brewery(
+        71,
+        "Occidental Brewing",
+        "Our Taproom has reopened with expanded outdoor seating!" +
+                "Masks are required (properly worn over nose and mouth). We hope to see you soon!"),
+    Brewery(
+        72,
+        "Old Town Brewing",
+        "Historic ties to Portland run deep within Old Town. " +
+                "Opening its doors as a family-run pizzeria in April of 1974, " +
+                "Old Town Pizza became a hub for like-minded people with a radical agenda. " +
+                "It stood as a beacon for the local community; a place to break bread and enjoy your neighbor. " +
+                "Over 40 years later, not much has changed in that regard. " +
+                "Built within the heart of the historic Old Town neighborhood, " +
+                "inside one of Portland's oldest standing buildings (The Merchant Hotel), " +
+                "Old Town Pizza & Brewing is a relic of past and present.\n" +
+                "Adam Milne, a devoted Old Town Pizza customer, " +
+                "celebrated his ninth birthday at the restaurant and immediately fell in love. " +
+                "That experience stuck with him until 2003, " +
+                "when he purchased the downtown pizzeria from the Accuardi family. " +
+                "In 2008, Adam built a second location in the Northeast district of Portland, " +
+                "in his very own neighborhood, which would soon become Old Town Brewing. " +
+                "To compliment the rich historic build of the downtown pizzeria, " +
+                "the new location was constructed using reclaimed materials that circa'd the 1800-1900's, " +
+                "evoking an atmosphere of Northwest authenticity and sustainability. " +
+                "Three years later, OTB began filling its first tanks with beer. " +
+                "With a passion for community, " +
+                "it was only a matter of time before Milne discovered that same passion inside the beer community. " +
+                "This driving force has lead to two major expansions, " +
+                "a number of prominent awards, packaged beer, distribution, " +
+                "new jobs, and a deep obsession to make some of the world's best beer possible."),
+    Brewery(
+        73,
+        "Ordnance Brewing",
+        "The title photo above is Gene Davidson's hop operation.  " +
+                "His mother, Anna Coleman, married Frank Davidson.  " +
+                "Anna and W.Frank Davidson grew \"rather large fields of hops\" on a 320 acre farm they purchased in 1867, " +
+                "1.5 miles south of St. Paul. - Source: St. Paul, Oregon 1830-1890 written by Harvey McKay, " +
+                "and the St. Paul Mission Historical Society"),
+    Brewery(
+        74,
+        "PFriem Cascade Locks Barrelhouse",
+        "no information yet"),
+    Brewery(
+        75,
+        "Parallel 45 Brewing",
+        "no information yet"),
+    Brewery(
+        76,
+        "Pelican Brewing Company - Tillamook",
+        "no information yet"),
+    Brewery(
+        77,
+        "Pono Brew Labs",
+        "no information yet"),
+    Brewery(
+        78,
+        "Pono Brewing Company",
+        "Pono Brewing is a craft brewery located in Portland, " +
+                "Oregon with roots from the Pacific Islands. " +
+                "Our beers have inspirations and ingredients from the South Pacific as well as popular craft-brew styles. " +
+                "We are located in a shared space in the back of Zoiglhaus Brewing."),
+    Brewery(
+        79,
+        "Public Coast Brewing Co.",
+        "no information yet"),
+    Brewery(
+        80,
+        "Reach Break Brewing",
+        "Your local brewery experience"),
+    Brewery(
+        81,
+        "RiverBend Brewing Company",
+        "no information yet"),
+    Brewery(
+        82,
+        "Rogue East Side Pub & Pilot Brewery",
+        "no information yet"),
+    Brewery(
+        83,
+        "Shade Tree Brewing",
+        "Located in The Deschutes River Woods\n" +
+                "Serving Southern Bend and Beyond"),
+    Brewery(
+        84,
+        "Shattered Oak Brewing",
+        "no information yet"),
+    Brewery(
+        85,
+        "Silver Moon Brewing",
+        "Our tried & true. The ones you love: Offered all year long in 6-pack cans and on draft!"),
+    Brewery(
+        86,
+        "Silver Moon Brewing",
+        "Our tried & true. The ones you love: Offered all year long in 6-pack cans and on draft!"),
+    Brewery(
+        87,
+        "Skyline Brewing Company",
+        "Skyline Brewing Company is built on passion. " +
+                "We are very passionate about our families, our rural way of life, our community, " +
+                "and especially about great beer! " +
+                "Our brewery resides in what was once a run down, " +
+                "100 year old milking parlor on our family farm just South of Klamath Falls. " +
+                "The brewery is a functioning piece of our farm operation, " +
+                "our spent grains are used to feed our cattle, and our used hops and yeast become fertilizer."),
+    Brewery(
+        88,
+        "Solvana Brewing",
+        "no information yet"),
+    Brewery(
+        89,
+        "Sunriver Brewing",
+        "Sunriver Brewing Company is a locally owned business committed to providing " +
+                "the highest quality craft products and best in class service since Independence Day, 2012. " +
+                "We are a proud member of our community and maintain a great love and " +
+                "respect for the mountains, forest, rivers, lakes, and our staff that make it all possible."),
+    Brewery(
+        90,
+        "Terminal Gravity Brewing Co",
+        "We love to make a variety of full-flavored beers."),
+    Brewery(
+        91,
+        "The Ale Apothecary",
+        "Bend’s only sour brewery, The Ale Apothecary, creates totally natural, " +
+                "barrel-aged beer using ingredients off our land or sourced nearby, direct from Oregon farms.  " +
+                "We get our barley and wheat malts from Seth Klann at Mecca Grade Estate Malt in Madras, " +
+                "our hops direct from Gayle Goschie at Goschie Farms in Silverton, " +
+                "and our honey for bottle-conditioning comes raw and direct from farms around Oregon.  " +
+                "Farmers Market season has us working with Happy Harvest Farms in Eugene and Thomas Orchards in Kimberly.  " +
+                "All Oregon, all the time!"),
+    Brewery(
+        92,
+        "Three Creeks Brewing Co",
+        "We’ve never been one to follow trends, but to tenaciously blaze our own trail. " +
+                "For some, this means enjoying a perfect day of fresh powder, " +
+                "snowboarding or skiing on the mountain; for others, " +
+                "it's that secret spot to cast a reel, or an epic bike ride that goes on forever. " +
+                "For us, it simply means crafting beer of uncompromising perfection, " +
+                "as well as the finest food at our pub."),
+    Brewery(
+        93,
+        "Upright Brewing Co",
+        "Upright references the primary instrument of Charles Mingus, " +
+                "the great musician whose compositions defied categorization."),
+    Brewery(
+        94,
+        "Van Henion Brewing",
+        "no information yet"),
+    Brewery(
+        95,
+        "Vision Brewing Company",
+        "no information yet"),
+    Brewery(
+        96,
+        "Walkabout Brewing Co",
+        "no information yet"),
+    Brewery(
+        97,
+        "War & Leisure Brewing",
+        "no information yet"),
+    Brewery(
+        98,
+        "Wayfinder Beer",
+        "Wayfinder Beer, based in Portland Oregon, " +
+                "is a lager-centric brewery that combines old and new school lager techniques " +
+                "to push the envelope of what lager can be. " +
+                "The founders of Wayfinder, lager fanatics themselves and proselytizers of cool fermentation, " +
+                "installed a dedicated decoction vessel to achieve malt complexities otherwise unattainable. " +
+                "The beers are a mix of tradition and science, " +
+                "a blending of ancient brewing tactics, " +
+                "newer Narziß-style German precision, and the swagger of American Craft. " +
+                "Although we are rewriting the definition of lager for the next generation of craft beer enthusiasts, " +
+                "we are bringing with it the traditions of Europe and America’s favorite beer."),
+    Brewery(
+        99,
+        "Wolf Tree Brewery",
+        "Located on a cattle ranch along the Oregon coast, " +
+                "Wolf Tree Brewery strives to produce ales that encompass the spirit of the ranch " +
+                "and our surrounding coastal forests. " +
+                "Brewed with natural spring water and locally harvested ingredients, " +
+                "Wolf Tree ales are some of the most unique beers brewed in Oregon."),
+    Brewery(
+        100,
+        "Worthy Brewing Co.",
+        "no information yet")
 )
+
+
+
+
+
