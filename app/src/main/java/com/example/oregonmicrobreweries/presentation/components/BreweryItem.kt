@@ -9,6 +9,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.example.oregonmicrobreweries.data.local.Brewery
+import com.example.oregonmicrobreweries.ui.theme.cardBackground
 
 @Composable
 fun BreweryItem(
@@ -19,7 +20,8 @@ fun BreweryItem(
         elevation = 4.dp,
         modifier = Modifier
             .padding(8.dp),
-        shape = MaterialTheme.shapes.large
+        shape = MaterialTheme.shapes.large,
+        backgroundColor = MaterialTheme.colors.cardBackground
 
     ) {
         Row(

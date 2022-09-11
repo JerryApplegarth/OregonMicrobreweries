@@ -11,6 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.oregonmicrobreweries.presentation.screens.BreweryScreen
 import com.example.oregonmicrobreweries.ui.theme.OregonMicrobreweriesTheme
+import com.example.oregonmicrobreweries.ui.theme.newBackgroundColor
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -20,7 +21,7 @@ class MainActivity : ComponentActivity() {
                 // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colors.background
+                    color = MaterialTheme.colors.newBackgroundColor
                 ) {
                     BreweryApp()
                 }
@@ -39,5 +40,10 @@ fun BreweryApp() {
 )
 @Composable
 fun BreweryAppPreview() {
-    BreweryApp()
+    Surface(
+        modifier = Modifier.fillMaxSize(),
+        color = MaterialTheme.colors.newBackgroundColor
+    ) {
+        BreweryApp()
+    }
 }
