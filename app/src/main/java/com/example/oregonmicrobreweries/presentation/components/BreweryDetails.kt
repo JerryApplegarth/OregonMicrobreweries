@@ -12,9 +12,13 @@ import androidx.compose.ui.tooling.preview.Preview
 
 @Composable
 fun BreweryDetails( title: String, description: String,modifier: Modifier) {
-    Column(modifier = Modifier) {
+    Column(
+        modifier = Modifier
+
+    ) {
         Text(text = title,
-            style = MaterialTheme.typography.h6)
+            style = MaterialTheme.typography.h6
+        )
         CompositionLocalProvider(
             LocalContentAlpha provides
                     ContentAlpha.medium) {
