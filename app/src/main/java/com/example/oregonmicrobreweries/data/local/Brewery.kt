@@ -11,8 +11,7 @@ val dummyBreweries = listOf(
     Brewery(
         1,
         "Alesong Brewing & Testing Room",
-        "We approach brewing like a musician composing a song\n" +
-            "Each beer begins with an inspiration: from nature, food, or an unforgettable experience"),
+        "We approach brewing like a musician composing a song"),
     Brewery(
         2,
         "Arch Rock Brewing Company",

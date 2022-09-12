@@ -44,6 +44,6 @@ fun BreweryAppPreview() {
         modifier = Modifier.fillMaxSize(),
         color = MaterialTheme.colors.newBackgroundColor
     ) {
-        BreweryApp()
+        BreweryScreen()
     }
 }

@@ -23,7 +23,6 @@ fun BreweryItem(
         Icons.Filled.Favorite
     else
         Icons.Filled.FavoriteBorder
-
     Card(
         elevation = 6.dp,
         modifier = Modifier
@@ -35,13 +34,12 @@ fun BreweryItem(
         Row(
             verticalAlignment = Alignment.CenterVertically,
             modifier = Modifier
-
                 .padding(8.dp)
 
         ) {
             BreweryIcon(Icons.Filled.Place, Modifier.weight(0.15f))
             BreweryDetails(item.title, item.description, Modifier.weight(0.7f))
-            BreweryIcon(Icons.Default.Favorite, Modifier.weight(0.15f)) {
+            BreweryIcon(icon, Modifier.weight(0.15f)){
                 onClick(item.id)
             }
 
