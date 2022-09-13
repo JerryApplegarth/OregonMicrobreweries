@@ -17,7 +17,8 @@ import com.example.oregonmicrobreweries.ui.theme.cardBackground
 
 @Composable
 fun BreweryItem(
-    item: Brewery, onClick: (id: Int) -> Unit
+    item: Brewery,
+    onClick: (id: Int) -> Unit
 ) {
     val icon = if (item.isFavorite)
         Icons.Filled.Favorite

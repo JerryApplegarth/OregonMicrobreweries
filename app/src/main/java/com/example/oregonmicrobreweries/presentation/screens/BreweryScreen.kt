@@ -21,6 +21,7 @@ import com.example.oregonmicrobreweries.ui.theme.newBackgroundColor
 fun BreweryScreen() {
     val viewModel: BreweryViewModel = viewModel()
 
+
     LazyColumn(
         contentPadding = PaddingValues(
             vertical = 8.dp,

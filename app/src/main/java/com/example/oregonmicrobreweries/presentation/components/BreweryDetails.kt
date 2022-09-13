@@ -12,7 +12,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 
 @Composable
-fun BreweryDetails( title: String, description: String,modifier: Modifier) {
+fun BreweryDetails( title: String, description: String, modifier: Modifier) {
     Column(
         modifier = Modifier
 
